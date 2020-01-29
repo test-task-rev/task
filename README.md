@@ -20,7 +20,7 @@ pre-installed container/server).
 
 ### How to run
 
-1) Unzip test-revolut.zip.
+1) Unzip test-revolut-1.0-SNAPSHOT.zip.
 2) Run either test-revolut.bat or test-revolut (bat for Windows, sh for Linux)
 
 ### Running unit tests
