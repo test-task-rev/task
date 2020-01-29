@@ -1,0 +1,8 @@
+/lib/
+/logs/
+/modules
+/project/project
+/project/target
+/target
+/.idea
+/null

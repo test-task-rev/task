@@ -1,0 +1,11 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+GET           /accounts/               controllers.AccountController.list
+POST          /accounts/               controllers.AccountController.create(request: Request)
+GET           /accounts/:id            controllers.AccountController.get(id: Long)
+DELETE        /accounts/:id            controllers.AccountController.delete(id: Long)
+GET           /transactions/           controllers.TransactionController.list()
+POST          /transactions/           controllers.TransactionController.create(request: Request)
+GET           /transactions/:id        controllers.TransactionController.get(id: Long)
