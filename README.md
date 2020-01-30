@@ -18,6 +18,9 @@ pre-installed container/server).
 1. The code produced by you is expected to be of high quality.
 2. There are no detailed requirements, use common sense.
 
+### Port
+Default port is 9000.
+
 ### How to run
 
 1) Unzip test-revolut-1.0-SNAPSHOT.zip.
